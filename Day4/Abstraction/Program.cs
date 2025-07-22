@@ -1,9 +1,6 @@
 ﻿public abstract class DeliveryPlatform
 
 {
-    
-
-
     public string PartnerName { get; set; }
 
     //Non abstract Method
