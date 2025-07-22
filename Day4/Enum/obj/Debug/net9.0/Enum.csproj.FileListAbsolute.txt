@@ -1,0 +1,14 @@
+C:\WiproTraining\Day3\Enum\bin\Debug\net9.0\Enum.exe
+C:\WiproTraining\Day3\Enum\bin\Debug\net9.0\Enum.deps.json
+C:\WiproTraining\Day3\Enum\bin\Debug\net9.0\Enum.runtimeconfig.json
+C:\WiproTraining\Day3\Enum\bin\Debug\net9.0\Enum.dll
+C:\WiproTraining\Day3\Enum\bin\Debug\net9.0\Enum.pdb
+C:\WiproTraining\Day3\Enum\obj\Debug\net9.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day3\Enum\obj\Debug\net9.0\Enum.AssemblyInfoInputs.cache
+C:\WiproTraining\Day3\Enum\obj\Debug\net9.0\Enum.AssemblyInfo.cs
+C:\WiproTraining\Day3\Enum\obj\Debug\net9.0\Enum.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day3\Enum\obj\Debug\net9.0\Enum.dll
+C:\WiproTraining\Day3\Enum\obj\Debug\net9.0\refint\Enum.dll
+C:\WiproTraining\Day3\Enum\obj\Debug\net9.0\Enum.pdb
+C:\WiproTraining\Day3\Enum\obj\Debug\net9.0\Enum.genruntimeconfig.cache
+C:\WiproTraining\Day3\Enum\obj\Debug\net9.0\ref\Enum.dll

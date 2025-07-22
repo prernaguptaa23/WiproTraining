@@ -1,0 +1,14 @@
+C:\WiproTraining\Day3\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day3\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\WiproTraining\Day3\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\WiproTraining\Day3\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day3\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\WiproTraining\Day3\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\WiproTraining\Day3\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\WiproTraining\Day3\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\WiproTraining\Day3\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\WiproTraining\Day3\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\WiproTraining\Day3\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\WiproTraining\Day3\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\WiproTraining\Day3\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\WiproTraining\Day3\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll

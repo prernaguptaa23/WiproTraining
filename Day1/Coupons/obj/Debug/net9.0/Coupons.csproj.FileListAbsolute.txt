@@ -1,0 +1,14 @@
+C:\WiproTraining\Day1\Coupons\bin\Debug\net9.0\Coupons.exe
+C:\WiproTraining\Day1\Coupons\bin\Debug\net9.0\Coupons.deps.json
+C:\WiproTraining\Day1\Coupons\bin\Debug\net9.0\Coupons.runtimeconfig.json
+C:\WiproTraining\Day1\Coupons\bin\Debug\net9.0\Coupons.dll
+C:\WiproTraining\Day1\Coupons\bin\Debug\net9.0\Coupons.pdb
+C:\WiproTraining\Day1\Coupons\obj\Debug\net9.0\Coupons.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day1\Coupons\obj\Debug\net9.0\Coupons.AssemblyInfoInputs.cache
+C:\WiproTraining\Day1\Coupons\obj\Debug\net9.0\Coupons.AssemblyInfo.cs
+C:\WiproTraining\Day1\Coupons\obj\Debug\net9.0\Coupons.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day1\Coupons\obj\Debug\net9.0\Coupons.dll
+C:\WiproTraining\Day1\Coupons\obj\Debug\net9.0\refint\Coupons.dll
+C:\WiproTraining\Day1\Coupons\obj\Debug\net9.0\Coupons.pdb
+C:\WiproTraining\Day1\Coupons\obj\Debug\net9.0\Coupons.genruntimeconfig.cache
+C:\WiproTraining\Day1\Coupons\obj\Debug\net9.0\ref\Coupons.dll

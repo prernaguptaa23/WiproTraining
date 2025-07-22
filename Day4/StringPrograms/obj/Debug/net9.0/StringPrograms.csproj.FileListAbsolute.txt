@@ -1,0 +1,14 @@
+C:\WiproTraining\Day3\StringPrograms\bin\Debug\net9.0\StringPrograms.exe
+C:\WiproTraining\Day3\StringPrograms\bin\Debug\net9.0\StringPrograms.deps.json
+C:\WiproTraining\Day3\StringPrograms\bin\Debug\net9.0\StringPrograms.runtimeconfig.json
+C:\WiproTraining\Day3\StringPrograms\bin\Debug\net9.0\StringPrograms.dll
+C:\WiproTraining\Day3\StringPrograms\bin\Debug\net9.0\StringPrograms.pdb
+C:\WiproTraining\Day3\StringPrograms\obj\Debug\net9.0\StringPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day3\StringPrograms\obj\Debug\net9.0\StringPrograms.AssemblyInfoInputs.cache
+C:\WiproTraining\Day3\StringPrograms\obj\Debug\net9.0\StringPrograms.AssemblyInfo.cs
+C:\WiproTraining\Day3\StringPrograms\obj\Debug\net9.0\StringPrograms.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day3\StringPrograms\obj\Debug\net9.0\StringPrograms.dll
+C:\WiproTraining\Day3\StringPrograms\obj\Debug\net9.0\refint\StringPrograms.dll
+C:\WiproTraining\Day3\StringPrograms\obj\Debug\net9.0\StringPrograms.pdb
+C:\WiproTraining\Day3\StringPrograms\obj\Debug\net9.0\StringPrograms.genruntimeconfig.cache
+C:\WiproTraining\Day3\StringPrograms\obj\Debug\net9.0\ref\StringPrograms.dll

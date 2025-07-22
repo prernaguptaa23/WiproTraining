@@ -1,0 +1,14 @@
+C:\WiproTraining\Day3\Abstraction\bin\Debug\net9.0\Abstraction.exe
+C:\WiproTraining\Day3\Abstraction\bin\Debug\net9.0\Abstraction.deps.json
+C:\WiproTraining\Day3\Abstraction\bin\Debug\net9.0\Abstraction.runtimeconfig.json
+C:\WiproTraining\Day3\Abstraction\bin\Debug\net9.0\Abstraction.dll
+C:\WiproTraining\Day3\Abstraction\bin\Debug\net9.0\Abstraction.pdb
+C:\WiproTraining\Day3\Abstraction\obj\Debug\net9.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day3\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfoInputs.cache
+C:\WiproTraining\Day3\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfo.cs
+C:\WiproTraining\Day3\Abstraction\obj\Debug\net9.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day3\Abstraction\obj\Debug\net9.0\Abstraction.dll
+C:\WiproTraining\Day3\Abstraction\obj\Debug\net9.0\refint\Abstraction.dll
+C:\WiproTraining\Day3\Abstraction\obj\Debug\net9.0\Abstraction.pdb
+C:\WiproTraining\Day3\Abstraction\obj\Debug\net9.0\Abstraction.genruntimeconfig.cache
+C:\WiproTraining\Day3\Abstraction\obj\Debug\net9.0\ref\Abstraction.dll

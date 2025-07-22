@@ -1,0 +1,14 @@
+C:\WiproTraining\Day3\StringLiteralConstructor\bin\Debug\net9.0\StringLiteralConstructor.exe
+C:\WiproTraining\Day3\StringLiteralConstructor\bin\Debug\net9.0\StringLiteralConstructor.deps.json
+C:\WiproTraining\Day3\StringLiteralConstructor\bin\Debug\net9.0\StringLiteralConstructor.runtimeconfig.json
+C:\WiproTraining\Day3\StringLiteralConstructor\bin\Debug\net9.0\StringLiteralConstructor.dll
+C:\WiproTraining\Day3\StringLiteralConstructor\bin\Debug\net9.0\StringLiteralConstructor.pdb
+C:\WiproTraining\Day3\StringLiteralConstructor\obj\Debug\net9.0\StringLiteralConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day3\StringLiteralConstructor\obj\Debug\net9.0\StringLiteralConstructor.AssemblyInfoInputs.cache
+C:\WiproTraining\Day3\StringLiteralConstructor\obj\Debug\net9.0\StringLiteralConstructor.AssemblyInfo.cs
+C:\WiproTraining\Day3\StringLiteralConstructor\obj\Debug\net9.0\StringLiteralConstructor.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day3\StringLiteralConstructor\obj\Debug\net9.0\StringLiteralConstructor.dll
+C:\WiproTraining\Day3\StringLiteralConstructor\obj\Debug\net9.0\refint\StringLiteralConstructor.dll
+C:\WiproTraining\Day3\StringLiteralConstructor\obj\Debug\net9.0\StringLiteralConstructor.pdb
+C:\WiproTraining\Day3\StringLiteralConstructor\obj\Debug\net9.0\StringLiteralConstructor.genruntimeconfig.cache
+C:\WiproTraining\Day3\StringLiteralConstructor\obj\Debug\net9.0\ref\StringLiteralConstructor.dll

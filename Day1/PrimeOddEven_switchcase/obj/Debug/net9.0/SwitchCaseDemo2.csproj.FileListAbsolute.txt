@@ -1,0 +1,14 @@
+C:\WiproTraining\SwitchCaseDemo2\bin\Debug\net9.0\SwitchCaseDemo2.exe
+C:\WiproTraining\SwitchCaseDemo2\bin\Debug\net9.0\SwitchCaseDemo2.deps.json
+C:\WiproTraining\SwitchCaseDemo2\bin\Debug\net9.0\SwitchCaseDemo2.runtimeconfig.json
+C:\WiproTraining\SwitchCaseDemo2\bin\Debug\net9.0\SwitchCaseDemo2.dll
+C:\WiproTraining\SwitchCaseDemo2\bin\Debug\net9.0\SwitchCaseDemo2.pdb
+C:\WiproTraining\SwitchCaseDemo2\obj\Debug\net9.0\SwitchCaseDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\SwitchCaseDemo2\obj\Debug\net9.0\SwitchCaseDemo2.AssemblyInfoInputs.cache
+C:\WiproTraining\SwitchCaseDemo2\obj\Debug\net9.0\SwitchCaseDemo2.AssemblyInfo.cs
+C:\WiproTraining\SwitchCaseDemo2\obj\Debug\net9.0\SwitchCaseDemo2.csproj.CoreCompileInputs.cache
+C:\WiproTraining\SwitchCaseDemo2\obj\Debug\net9.0\SwitchCaseDemo2.dll
+C:\WiproTraining\SwitchCaseDemo2\obj\Debug\net9.0\refint\SwitchCaseDemo2.dll
+C:\WiproTraining\SwitchCaseDemo2\obj\Debug\net9.0\SwitchCaseDemo2.pdb
+C:\WiproTraining\SwitchCaseDemo2\obj\Debug\net9.0\SwitchCaseDemo2.genruntimeconfig.cache
+C:\WiproTraining\SwitchCaseDemo2\obj\Debug\net9.0\ref\SwitchCaseDemo2.dll

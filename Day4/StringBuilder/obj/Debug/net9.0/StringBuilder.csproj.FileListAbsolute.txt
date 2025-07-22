@@ -1,0 +1,14 @@
+C:\WiproTraining\Day3\StringBuilder\bin\Debug\net9.0\StringBuilder.exe
+C:\WiproTraining\Day3\StringBuilder\bin\Debug\net9.0\StringBuilder.deps.json
+C:\WiproTraining\Day3\StringBuilder\bin\Debug\net9.0\StringBuilder.runtimeconfig.json
+C:\WiproTraining\Day3\StringBuilder\bin\Debug\net9.0\StringBuilder.dll
+C:\WiproTraining\Day3\StringBuilder\bin\Debug\net9.0\StringBuilder.pdb
+C:\WiproTraining\Day3\StringBuilder\obj\Debug\net9.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day3\StringBuilder\obj\Debug\net9.0\StringBuilder.AssemblyInfoInputs.cache
+C:\WiproTraining\Day3\StringBuilder\obj\Debug\net9.0\StringBuilder.AssemblyInfo.cs
+C:\WiproTraining\Day3\StringBuilder\obj\Debug\net9.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day3\StringBuilder\obj\Debug\net9.0\StringBuilder.dll
+C:\WiproTraining\Day3\StringBuilder\obj\Debug\net9.0\refint\StringBuilder.dll
+C:\WiproTraining\Day3\StringBuilder\obj\Debug\net9.0\StringBuilder.pdb
+C:\WiproTraining\Day3\StringBuilder\obj\Debug\net9.0\StringBuilder.genruntimeconfig.cache
+C:\WiproTraining\Day3\StringBuilder\obj\Debug\net9.0\ref\StringBuilder.dll

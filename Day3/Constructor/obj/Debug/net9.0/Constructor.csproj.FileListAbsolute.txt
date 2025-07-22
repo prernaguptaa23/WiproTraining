@@ -1,0 +1,14 @@
+C:\WiproTraining\Day2\Constructor\bin\Debug\net9.0\Constructor.exe
+C:\WiproTraining\Day2\Constructor\bin\Debug\net9.0\Constructor.deps.json
+C:\WiproTraining\Day2\Constructor\bin\Debug\net9.0\Constructor.runtimeconfig.json
+C:\WiproTraining\Day2\Constructor\bin\Debug\net9.0\Constructor.dll
+C:\WiproTraining\Day2\Constructor\bin\Debug\net9.0\Constructor.pdb
+C:\WiproTraining\Day2\Constructor\obj\Debug\net9.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day2\Constructor\obj\Debug\net9.0\Constructor.AssemblyInfoInputs.cache
+C:\WiproTraining\Day2\Constructor\obj\Debug\net9.0\Constructor.AssemblyInfo.cs
+C:\WiproTraining\Day2\Constructor\obj\Debug\net9.0\Constructor.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day2\Constructor\obj\Debug\net9.0\Constructor.dll
+C:\WiproTraining\Day2\Constructor\obj\Debug\net9.0\refint\Constructor.dll
+C:\WiproTraining\Day2\Constructor\obj\Debug\net9.0\Constructor.pdb
+C:\WiproTraining\Day2\Constructor\obj\Debug\net9.0\Constructor.genruntimeconfig.cache
+C:\WiproTraining\Day2\Constructor\obj\Debug\net9.0\ref\Constructor.dll
