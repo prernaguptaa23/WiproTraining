@@ -1,11 +1,8 @@
 ﻿using System;
 
 namespace StructExample
-
 {
-
-
-    public struct Book
+public struct Book
     {
         public string Title;
         public string Author;
@@ -17,16 +14,18 @@ namespace StructExample
     // It is non-primitive
     enum DaysOfWeek
     {
-        Monday, Tuesday, Wednesday
+        Monday,      //0
+        Tuesday,     //1
+        Wednesday    //2
 
     }
 
     enum Status
     {
 
-        Pending,
-        Approved,
-        Rejected
+        Pending,    //0
+        Approved,   //1
+        Rejected    //2
     }
 
 
@@ -70,11 +69,13 @@ namespace StructExample
                     Console.WriteLine("It's Weekend");
                     break;
             }
-             Status s = Status.Pending;
+
+            Status s = Status.Pending;
             string statusstring = s.ToString();
             Console.WriteLine("Selected Status: " + statusstring);
 
             Console.WriteLine("\nAll Status values:");
+            
             foreach (Status st in Enum.GetValues(typeof(Status)))
             {
                 Console.WriteLine(st);

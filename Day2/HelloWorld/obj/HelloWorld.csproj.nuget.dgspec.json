@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WiproTraining\\Day1\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\WiproTraining\\Day2\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\WiproTraining\\Day1\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\WiproTraining\\Day2\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WiproTraining\\Day1\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\WiproTraining\\Day2\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\WiproTraining\\Day1\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\WiproTraining\\Day2\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\prern\\.nuget\\packages\\",
-        "outputPath": "C:\\WiproTraining\\Day1\\HelloWorld\\obj\\",
+        "outputPath": "C:\\WiproTraining\\Day2\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
