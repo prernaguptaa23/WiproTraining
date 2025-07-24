@@ -1,0 +1,15 @@
+C:\WiproTraining\Day6\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.exe
+C:\WiproTraining\Day6\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.deps.json
+C:\WiproTraining\Day6\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.runtimeconfig.json
+C:\WiproTraining\Day6\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.dll
+C:\WiproTraining\Day6\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.pdb
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.AssemblyInfo.cs
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.sourcelink.json
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.dll
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\refint\ExceptionHandling.dll
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.pdb
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.genruntimeconfig.cache
+C:\WiproTraining\Day6\ExceptionHandling\obj\Debug\net9.0\ref\ExceptionHandling.dll

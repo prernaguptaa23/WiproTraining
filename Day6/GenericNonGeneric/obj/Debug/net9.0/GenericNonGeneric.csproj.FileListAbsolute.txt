@@ -1,0 +1,15 @@
+C:\WiproTraining\Day6\GenericNonGeneric\bin\Debug\net9.0\GenericNonGeneric.exe
+C:\WiproTraining\Day6\GenericNonGeneric\bin\Debug\net9.0\GenericNonGeneric.deps.json
+C:\WiproTraining\Day6\GenericNonGeneric\bin\Debug\net9.0\GenericNonGeneric.runtimeconfig.json
+C:\WiproTraining\Day6\GenericNonGeneric\bin\Debug\net9.0\GenericNonGeneric.dll
+C:\WiproTraining\Day6\GenericNonGeneric\bin\Debug\net9.0\GenericNonGeneric.pdb
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\GenericNonGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\GenericNonGeneric.AssemblyInfoInputs.cache
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\GenericNonGeneric.AssemblyInfo.cs
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\GenericNonGeneric.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\GenericNonGeneric.sourcelink.json
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\GenericNonGeneric.dll
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\refint\GenericNonGeneric.dll
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\GenericNonGeneric.pdb
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\GenericNonGeneric.genruntimeconfig.cache
+C:\WiproTraining\Day6\GenericNonGeneric\obj\Debug\net9.0\ref\GenericNonGeneric.dll

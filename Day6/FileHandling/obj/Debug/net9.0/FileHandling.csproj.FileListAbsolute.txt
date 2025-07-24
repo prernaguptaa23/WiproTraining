@@ -1,0 +1,15 @@
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\FileHandling.AssemblyInfoInputs.cache
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\FileHandling.AssemblyInfo.cs
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\FileHandling.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\FileHandling.sourcelink.json
+C:\WiproTraining\Day6\FileHandling\bin\Debug\net9.0\FileHandling.exe
+C:\WiproTraining\Day6\FileHandling\bin\Debug\net9.0\FileHandling.deps.json
+C:\WiproTraining\Day6\FileHandling\bin\Debug\net9.0\FileHandling.runtimeconfig.json
+C:\WiproTraining\Day6\FileHandling\bin\Debug\net9.0\FileHandling.dll
+C:\WiproTraining\Day6\FileHandling\bin\Debug\net9.0\FileHandling.pdb
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\FileHandling.dll
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\refint\FileHandling.dll
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\FileHandling.pdb
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\FileHandling.genruntimeconfig.cache
+C:\WiproTraining\Day6\FileHandling\obj\Debug\net9.0\ref\FileHandling.dll
